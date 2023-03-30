@@ -5,10 +5,11 @@ import styled from "styled-components"
 
 const Login = (props) => {
 return  <Container>
-        <Content> Content </Content>
+        <Content> 
+           Content for Login 
+       </Content>
     </Container>;
- 
-  } ;
+  };
 
   const Container = styled.section`
      overflow: hidden;
